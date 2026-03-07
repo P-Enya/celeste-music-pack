@@ -1,5 +1,5 @@
 Adds music from Celeste.<br>Warning: it can get loud!!
-<br>
+<br><br>
 boss1 - Resurrection - music_oldsite_chase
 
 boss2 - In the Mirror - music_temple_middle
