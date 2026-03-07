@@ -1,7 +1,6 @@
 Adds music from Celeste.
 Warning: it can get loud!!
 <br>
-<br>
 
 boss1 - Resurrection - music_oldsite_chase
 
