@@ -1,6 +1,4 @@
-Adds music from Celeste.
-<br>
-Warning: it can get loud!!
+Adds music from Celeste.<br>Warning: it can get loud!!
 <br>
 <br>
 <br>
