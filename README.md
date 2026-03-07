@@ -32,4 +32,4 @@ launch - The Empty Space Above - ?
 
 menu - Postcard from Celeste Mountain - music_levelselect
 <br><br>
-Thanks to @acemany
+Thanks to [@Acemany](https://github.com/Acemany)
