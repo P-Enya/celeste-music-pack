@@ -31,8 +31,7 @@ land - Crash
 launch - The Empty Space Above
 
 menu - Postcard from Celeste Mountain
-
-
+<br><br><br>
 In Lönn:
 
 boss1 - music_oldsite_chase
@@ -66,8 +65,7 @@ land - music_farewell_firstbirdcrash_cinematic
 launch - music_levelselect ?
 
 menu - music_levelselect
-
-
+<br><br>
 In FMOD: (music/kuraine/)
 
 boss1 - mus_lvl2_chase_loop
@@ -89,8 +87,7 @@ game4 - mus_lvl9_part03_finale_loop
 game5 - mus_lvl9_ending_finalrun_multiloop_131bpm
 
 game6 - mus_lvl5_lightnorm_loop
-
-
+<br><br>
 (music/remix/)
 
 game7 - mus_rmx_02_oldsite_loop
@@ -98,8 +95,7 @@ game7 - mus_rmx_02_oldsite_loop
 game8 - mus_rmx_07_summit
 
 game9 - mus_rmx_08_core
-
-
+<br><br>
 (music/kuraine/)
 
 land - mus_lvl9_cinematic_firstbirdcrash
