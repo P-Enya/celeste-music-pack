@@ -1,4 +1,4 @@
-Adds music from Celeste.
+Adds music from ![celeste](github/celeste.png)
 <br><br><br>
 boss1 - Resurrection
 
