@@ -15,7 +15,9 @@
 		game8 - music_rmx_07_summit
 		game9 - music_rmx_09_core
 		land - music_farewell_firstbirdcrash_cinematic
-		launch - music_levelselect ?
+		launch - music_levelselect
+			Music parameter:
+				moon: 1.00
 		menu - music_levelselect
 
 	# Sounds
